@@ -1,1 +1,1 @@
-# LLM-Recipes
+# LLM-Lab
